@@ -1,0 +1,58 @@
+
+    html,body{
+        font-size: 30%;
+    }
+
+    .dtop{width: 100%;}
+    .dtop-two{
+        width: 100%;
+    }
+    nav div{
+        width: 90%;
+    }
+/* main栏目 */
+    .main .main-bottom{
+        flex-wrap: wrap;
+    }   
+    .main .main-bottom img{
+        width: 100%;
+        height: 100%
+        
+    }
+
+    .main-two>div{
+        width: 90%;
+    }
+    .main-three>div{
+        width: 90%;
+    }
+    .main-four>div{
+        width: 100%
+    }
+    .main-four{
+        background-repeat:repeat
+    }
+
+
+    .main .main-top{
+    width: 100%;
+}
+/* 大商家合作栏 */
+.main-five>div{
+    width:100%
+}
+/* 搜索栏 */
+.search>div{
+    flex-wrap: wrap
+}
+/* 创业联系我们栏 */
+.main-six>div{
+    width: 100%;
+    
+}
+.main-six>div>.six-left{
+    width:40%
+}
+.main-six>div>.six-right{
+    width:40%
+}
